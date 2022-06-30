@@ -1,4 +1,5 @@
 # Projekt_machine_learning
+#Dzmitry Barbash i Lizaveta Kameneva
 
 !Opis problemu biznesowego!
 
